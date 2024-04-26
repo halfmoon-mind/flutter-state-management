@@ -1,16 +1,19 @@
-# statemangement_example
+# state_management_example
 
-A new Flutter project.
+- Flutter에서 상태 관리를 하는 방법에 대한 repository입니다.
+- 각 화면은 main 함수를 실행하면 볼 수 있음
 
-## Getting Started
+<img src="https://github.com/halfmoon-mind/flutter-state-management/docs/main.png" width=360>
 
-This project is a starting point for a Flutter application.
+- 각 stateful widget, inherited widget, provider, bloc를 사용한 패턴에 대해서 적용
 
-A few resources to get you started if this is your first Flutter project:
+## setting
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- flutter
+  - 3.2.3 이상
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## how to run
+
+```shell
+flutter run
+```
