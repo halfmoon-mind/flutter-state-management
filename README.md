@@ -17,3 +17,10 @@
 ```shell
 flutter run
 ```
+
+## 각 Provider, Bloc 실습 파일들
+
+- Provider 실습
+  - /bloc_provider/lib/main.dart 실행
+- bloc 실습
+  - /bloc_todo/lib/main.dart 실행
